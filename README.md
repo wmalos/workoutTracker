@@ -10,6 +10,10 @@ An application to help you keep track of all your workouts.
 - [Links](#links)
 - [Contact](#contact)
 
+![workoutTracker](https://github.com/wmalos/workoutTracker/blob/main/Assets/FitnessChart.png)
+
+![workoutTracker](https://github.com/wmalos/workoutTracker/blob/main/Assets/FitnessExercises.png)
+
 ## Installation
 Use command 'npm i' in order to download the required dependencies.
 
